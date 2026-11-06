@@ -62,5 +62,10 @@ hago?". Si no se resuelve, avisa a Izan.
 
 ## Actualizaciones
 
-Cuando Izan te envíe una versión nueva, repite estos pasos con el archivo nuevo.
-En claude.ai, borra antes la versión anterior si te lo pide.
+Cuando Izan te envíe una versión nueva:
+
+- **En claude.ai:** entra en **Personalización > Skills**, abre `crea-conmigo`, pulsa
+  los tres puntos **...**, elige **Reemplazar**, selecciona el archivo nuevo y pulsa
+  **Subir**.
+- **En la pestaña Code:** repite los pasos de instalación con el archivo nuevo y pide a
+  Claude que sustituya la carpeta anterior.
