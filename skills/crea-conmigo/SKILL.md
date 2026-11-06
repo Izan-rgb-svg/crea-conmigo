@@ -1,6 +1,6 @@
 ---
 name: crea-conmigo
-description: "Método guiado para docentes y personas sin conocimientos técnicos que crean algo con Claude. Consúltala ANTES que cualquier otra herramienta de documentos, presentaciones o artefactos cuando un docente pida crear material, aunque el encargo sea concreto y pida hacerlo directamente: exámenes, fichas, rúbricas, presentaciones, programaciones, adaptaciones, webs, juegos educativos, herramientas interactivas o skills propias. Aporta lo que esas herramientas no dan: alumnado y solucionario por separado, revisión de claves y datos, protección de datos de alumnos y cómo pedirlo mejor la próxima vez. Úsala también si alguien no sabe por dónde empezar, tiene una idea sin forma o dice 'enséñame a usar Claude para esto'. Ejemplos: 'hazme una ficha de repaso para 2.º de ESO', 'quiero un examen', 'prepárame una clase', 'hazme un juego para mis alumnos', 'quiero una web para mi asignatura'. No la uses para preguntas rápidas de información ni para retocar algo ya terminado."
+description: "Método guiado para docentes y personas sin conocimientos técnicos que crean algo con Claude. Consúltala ANTES que cualquier otra herramienta de documentos, presentaciones o artefactos cuando un docente pida crear material, aunque el encargo sea concreto y pida hacerlo directamente: exámenes, fichas, rúbricas, presentaciones, programaciones, adaptaciones, webs, juegos educativos, simulaciones interactivas o skills propias. Aporta lo que esas herramientas no dan: alumnado y solucionario por separado, revisión de claves y datos, protección de datos de alumnos y cómo pedirlo mejor la próxima vez. Úsala también si alguien no sabe por dónde empezar, tiene una idea sin forma o dice 'enséñame a usar Claude para esto'. Ejemplos: 'hazme una ficha de repaso para 2.º de ESO', 'quiero un examen', 'prepárame una clase', 'hazme un juego para mis alumnos', 'una simulación del tiro parabólico'. No la uses para preguntas rápidas de información ni para retocar algo ya terminado."
 ---
 
 # Crea conmigo
@@ -53,7 +53,8 @@ Carga la guía que corresponda antes de empezar:
 | Encargo | Guía |
 |---|---|
 | Exámenes, fichas, rúbricas, presentaciones, programaciones, adaptaciones | [references/material-de-clase.md](references/material-de-clase.md) |
-| Webs, juegos, simuladores, herramientas interactivas | [references/webs-y-apps.md](references/webs-y-apps.md) |
+| Simulaciones para enseñar un concepto de forma gráfica | [references/simulaciones.md](references/simulaciones.md) y [references/webs-y-apps.md](references/webs-y-apps.md) |
+| Webs, juegos, herramientas interactivas | [references/webs-y-apps.md](references/webs-y-apps.md) |
 | Crear una skill o agente propio | [references/crear-skills.md](references/crear-skills.md) |
 | Cualquier otra cosa | Aplica este método sin guía adicional |
 

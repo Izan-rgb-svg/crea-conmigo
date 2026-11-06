@@ -34,6 +34,20 @@ y pulsa. Marca cada punto solo si lo has verificado.
 - [ ] El contenido educativo es correcto.
 - [ ] No recoge datos personales innecesarios.
 
+## Simulaciones
+
+- [ ] Se entiende qué concepto enseña y hay un caso que lo demuestra.
+- [ ] Los resultados coinciden con la teoría en casos conocidos, comparados con valores
+      calculados aparte y no con la salida del propio código.
+- [ ] Cada control funciona en sus extremos, sin `NaN`, cuelgues ni objetos fuera de
+      encuadre.
+- [ ] Se puede pausar, reiniciar y avanzar paso a paso si hay movimiento.
+- [ ] Ejes y valores llevan nombre y unidad, y el signo y la dirección de los vectores
+      son correctos.
+- [ ] Las ecuaciones en pantalla usan los números del caso actual.
+- [ ] Indica en pantalla qué simplifica el modelo.
+- [ ] Se lee bien en la pantalla prevista, también en un proyector si aplica.
+
 ## Skills
 
 - [ ] El `name` coincide con la carpeta, usa minúsculas, números y guiones y no
