@@ -49,9 +49,9 @@ Explica que se abre con doble clic y se puede enviar como cualquier otro archivo
 
 ## Antes de entregar
 
-Prueba de verdad, no solo leyendo el código. Si tienes un navegador disponible,
-pulsa cada botón y completa una partida o actividad entera, incluidos los caminos
-de error. Si no puedes probarlo, dile qué comprobar en dos minutos.
+Prueba de verdad si tienes ya un navegador a mano: pulsa cada botón y completa una
+partida o actividad entera, incluidos los caminos de error. No busques ni instales
+programas para esto. Si no puedes probarlo, dile qué comprobar en dos minutos.
 
 ## Publicar en internet
 

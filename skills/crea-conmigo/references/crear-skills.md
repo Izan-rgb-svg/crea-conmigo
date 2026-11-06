@@ -60,8 +60,16 @@ Dos versiones: la del alumno y otra con las respuestas y los criterios.
    a lo que vea.
 
 **En Claude Code:** crea la carpeta en `.claude/skills/nombre-de-la-skill/` dentro
-de su carpeta de usuario y guarda ahí `SKILL.md`. Pide permiso antes y avisa de que
-quizá tenga que reiniciar la sesión para verla.
+de su carpeta de usuario y guarda ahí `SKILL.md`. Avisa de que aparecerá una ventana de
+permiso y de que quizá tenga que reiniciar la sesión para verla. Si el permiso se
+rechaza, explica para qué sirve e inténtalo una vez más.
+
+Si no se puede guardar, no le des comandos para pegar. Deja la skill en la carpeta de
+trabajo y dile que puede subirla comprimida en claude.ai: lo subido allí suele aparecer
+en la app de Claude pasados unos minutos, también en la pestaña Code.
+
+Para que Claude recuerde algo, usa solo la skill. No crees memorias ni otros archivos
+de ajustes salvo que la persona lo pida.
 
 ## Errores frecuentes
 

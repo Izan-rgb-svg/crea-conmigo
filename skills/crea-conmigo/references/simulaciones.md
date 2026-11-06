@@ -29,7 +29,15 @@ Resume esto en el plan, en pocas líneas y sin tecnicismos:
 Empieza por **un solo concepto**. Más vale una simulación que funciona que un catálogo
 a medias: los demás conceptos se añaden después, uno a uno.
 
-## Qué debe tener
+## Primera versión
+
+Entrégala en pocos minutos, con esto y nada más: la escena, una gráfica si ayuda, de 2 a
+4 controles, valores en directo, pausa y reinicio, y la comprobación contra la teoría.
+Avisa de que se puede mejorar por partes y sugiere la siguiente mejora. Lo demás de la
+lista siguiente es un menú para elegir según el tema, no una obligación: intentar
+hacerlo todo de golpe alarga mucho la espera y da más errores.
+
+## Ideas para elegir
 
 **Manipular**
 - Deslizadores con número y unidad al lado, con límites físicamente razonables.
@@ -88,9 +96,10 @@ Sigue [webs-y-apps.md](webs-y-apps.md) para elegir el entorno y publicar. Ademá
 
 ## Antes de entregar
 
-Además de la checklist general, abre la simulación y úsala de verdad si puedes: mueve
-cada control hasta sus extremos, pausa, reinicia y ejecuta el caso de la sorpresa. Si no
-puedes abrirla, dilo claramente.
+Además de la checklist general, úsala de verdad si tienes ya un navegador a mano: mueve
+cada control hasta sus extremos, pausa, reinicia y ejecuta el caso de la sorpresa. No
+busques ni instales navegadores para esto. Si no puedes abrirla, dilo y dale al docente
+los casos concretos que debe probar.
 
 En "Para la próxima", enseña a pedir cambios describiendo lo que se ve: "añade la flecha
 de la velocidad" o "que la gráfica vaya más despacio". También es útil pedir una
