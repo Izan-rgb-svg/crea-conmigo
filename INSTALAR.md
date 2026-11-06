@@ -10,12 +10,14 @@ Te harán falta los archivos que te ha enviado Izan. Guárdalos en tu carpeta
 
 Usarás el archivo `crea-conmigo-para-chat.zip`.
 
-1. Entra en **Settings > Capabilities** y comprueba que está activada la opción de
-   crear y editar archivos.
-2. Ve a **Customize > Skills**.
-3. Pulsa **+**, después **Create skill** y luego **Upload a skill**.
-4. Selecciona el archivo `crea-conmigo-para-chat.zip`.
-5. Comprueba que `crea-conmigo` aparece en la lista y que está activada.
+1. En el menú de la izquierda, entra en **Personalización** y luego en **Skills**. Si
+   tu Claude está en inglés, se llama **Customize**.
+2. Pulsa **Añadir** y luego **Subir Skill**.
+3. Selecciona el archivo `crea-conmigo-para-chat.zip` y pulsa **Subir**.
+4. Comprueba que `crea-conmigo` aparece con el interruptor activado.
+
+Si da error, entra en **Ajustes > Capacidades**, activa la opción de crear y editar
+archivos, y repite los pasos.
 
 ## Si usas la pestaña Code de la app de Claude
 
@@ -40,7 +42,9 @@ Abre una conversación nueva y escribe lo que quieres, con tus palabras:
 
 > Tengo una idea para un juego de clase pero no sé por dónde empezar
 
-Si Claude no parece usarla, añade **"usa crea-conmigo"** a tu mensaje.
+**Para asegurarte de que se usa, empieza tu mensaje con "Usa crea-conmigo".** Sin esa
+frase, Claude puede ir directo a crear el documento y saltarse la revisión. Sabrás que
+se ha usado porque termina con **"He comprobado"** y **"Para la próxima"**.
 
 ## Tres cosas importantes
 

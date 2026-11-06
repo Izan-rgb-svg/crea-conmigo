@@ -53,10 +53,11 @@ Dos versiones: la del alumno y otra con las respuestas y los criterios.
 1. Crea una carpeta con el mismo nombre que la skill, con el archivo `SKILL.md`
    dentro, y comprímela en un ZIP. Si tienes herramientas de archivos, genéralo tú
    para que la persona solo tenga que descargarlo.
-2. Indica la ruta: Customize > Skills, botón +, Create skill y Upload a skill.
-3. Debe tener activada la opción de crear y editar archivos, en Settings >
-   Capabilities. Si las pantallas han cambiado, adapta las instrucciones a lo que
-   vea.
+2. Indica la ruta: Personalización > Skills, botón Añadir y Subir Skill (en inglés:
+   Customize > Skills). Tras subirla aparece el botón Probar en chat.
+3. Si da error, comprueba que tiene activada la opción de crear y editar archivos,
+   en Ajustes > Capacidades. Si las pantallas han cambiado, adapta las instrucciones
+   a lo que vea.
 
 **En Claude Code:** crea la carpeta en `.claude/skills/nombre-de-la-skill/` dentro
 de su carpeta de usuario y guarda ahí `SKILL.md`. Pide permiso antes y avisa de que

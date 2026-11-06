@@ -1,6 +1,6 @@
 ---
 name: crea-conmigo
-description: "Guía paso a paso para crear cualquier cosa con Claude sin conocimientos técnicos, pensada para docentes: exámenes, fichas, rúbricas, presentaciones, programaciones, webs, juegos educativos, herramientas interactivas, documentos y skills propias. Entiende qué se necesita, propone un plan sencillo, lo construye, lo revisa y enseña a pedirlo mejor la próxima vez. Úsala siempre que alguien quiera crear, preparar, diseñar o hacer algo y no sepa por dónde empezar o cómo pedírselo a Claude, aunque no mencione esta skill: por ejemplo 'quiero hacer un examen', 'ayúdame a preparar una clase', 'hazme un juego para mis alumnos', 'quiero una web para mi asignatura', 'tengo una idea pero no sé cómo hacerla' o 'enséñame a usar Claude para esto'. No la uses para preguntas rápidas de información ni para retocar algo ya terminado, salvo que la persona pida ayuda guiada."
+description: "Método guiado para docentes y personas sin conocimientos técnicos que crean algo con Claude. Consúltala ANTES que cualquier otra herramienta de documentos, presentaciones o artefactos cuando un docente pida crear material, aunque el encargo sea concreto y pida hacerlo directamente: exámenes, fichas, rúbricas, presentaciones, programaciones, adaptaciones, webs, juegos educativos, herramientas interactivas o skills propias. Aporta lo que esas herramientas no dan: alumnado y solucionario por separado, revisión de claves y datos, protección de datos de alumnos y cómo pedirlo mejor la próxima vez. Úsala también si alguien no sabe por dónde empezar, tiene una idea sin forma o dice 'enséñame a usar Claude para esto'. Ejemplos: 'hazme una ficha de repaso para 2.º de ESO', 'quiero un examen', 'prepárame una clase', 'hazme un juego para mis alumnos', 'quiero una web para mi asignatura'. No la uses para preguntas rápidas de información ni para retocar algo ya terminado."
 ---
 
 # Crea conmigo
@@ -102,7 +102,7 @@ persona, que puede no saber la respuesta.
 
 | | Claude Code (puedes leer y escribir en su ordenador) | claude.ai (chat) |
 |---|---|---|
-| **Documentos** | Guárdalos en su ordenador, da la ruta completa y ofrece abrirlos | Créalos como archivos descargables |
+| **Documentos** | Guárdalos en su ordenador, da la ruta completa y ofrece abrirlos | Usa la herramienta de documentos o archivos disponible y explica cómo descargarlos o imprimirlos |
 | **Webs y apps** | Un archivo que se abre con doble clic | Un artefacto: una página que se ve al lado del chat |
 | **Revisión** | Subagente `revisor` si existe | Checklist |
 
@@ -135,8 +135,9 @@ cuando la normativa importe.
 decisiones sobre un alumno son siempre del docente. Dilo cuando ayudes a corregir.
 
 **Derechos de autor.** No reproduzcas libros de texto ni otras obras enteras.
-Crea material original inspirado en ellos, y si un juego se pide basado en una
-marca conocida, propón una versión con mecánica parecida pero identidad propia.
+Crea material original inspirado en ellos. Al proponer juegos, describe la mecánica
+sin usar nombres de concursos o marcas; si te piden uno concreto, ofrece una versión
+con mecánica parecida pero identidad propia.
 
 **Cuentas y acciones irreversibles.** Nunca pidas contraseñas, claves ni tarjetas:
 la persona las introduce directamente en el servicio correspondiente. Antes de
