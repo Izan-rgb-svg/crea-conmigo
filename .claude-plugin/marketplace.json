@@ -1,0 +1,14 @@
+{
+  "name": "crea-conmigo-marketplace",
+  "description": "Catálogo privado con el plugin crea-conmigo",
+  "owner": {
+    "name": "Izan"
+  },
+  "plugins": [
+    {
+      "name": "crea-conmigo",
+      "source": "./",
+      "description": "Guía paso a paso para crear cualquier cosa con Claude sin conocimientos técnicos."
+    }
+  ]
+}
