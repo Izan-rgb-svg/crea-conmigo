@@ -20,6 +20,11 @@ pasársela a un compañero.
 
 ## 1. Antes de crearla
 
+- **¿Hace falta?** Si solo usa Claude Code y trabaja siempre desde la misma carpeta, el
+  `CLAUDE.md` de esa carpeta ya hace el mismo trabajo y no necesita skill personal. Esta
+  compensa cuando trabaja desde varias carpetas o también usa claude.ai, porque se carga
+  en todas partes. Para crearla tendrá que entrar una vez en claude.ai.
+
 - Parte del perfil de [perfil.md](perfil.md). Si no hay, constrúyelo con lo que has visto
   en la conversación y pregunta como máximo tres cosas.
 - **Quita todo dato personal de alumnos** y dile por qué lo has quitado. Quita también

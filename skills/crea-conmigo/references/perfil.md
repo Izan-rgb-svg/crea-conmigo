@@ -62,8 +62,9 @@ Busca el perfil sin explorar el ordenador:
 
 - Si la persona lo ha pegado, está en las instrucciones del proyecto o lo ves en tu
   contexto, úsalo.
-- En Claude Code, mira solo si existe `mi-perfil-docente.md` en la carpeta de trabajo
-  actual. No busques en otras carpetas.
+- En Claude Code, el perfil está en el `CLAUDE.md` de su carpeta de trabajo, y Claude Code
+  lo carga solo al abrir esa carpeta: ya lo tienes en tu contexto, no hace falta buscarlo.
+  Si no lo ves y la persona dice que lo guardó, pídele que abra Claude Code en esa carpeta.
 - Si tiene una skill personal, ya contiene lo mismo; úsala igual.
 
 Si lo encuentras, **aplícalo sin preguntar lo que ya responde**: su formato de examen,
@@ -98,7 +99,8 @@ Una vez por conversación, después de entregar y en dos líneas como máximo:
 
 1. **Fricción:** "¿Cuánto has tenido que corregir? Nada, poco o mucho." Es la forma de que
    los dos veáis si cada vez pelea menos. Pregunta y espera: no la contestes tú ni des tu
-   opinión, porque la medida es suya. Si dice "mucho", pregunta en una línea qué fue y
+   opinión, porque la medida es suya. Nunca apuntes la fricción por tu cuenta: si no te la
+   ha dicho, déjala sin rellenar, también cuando guardes el perfil. Si dice "mucho", pregunta en una línea qué fue y
    conviértelo en una regla candidata.
 2. **Reglas nuevas:** si has detectado alguna, muéstrala lista para copiar:
 
@@ -120,8 +122,12 @@ listo para pegar y dile dónde:
   docente", y usa ese proyecto para sus tareas. También puede decir "recuerda que…" para
   una preferencia suelta: claude.ai tiene una memoria propia que él puede revisar en
   Ajustes. Es un complemento, no lo sustituye: no controlas qué guarda.
-- **Claude Code:** como `mi-perfil-docente.md` en su carpeta de trabajo. Pide permiso
-  antes de crearlo o actualizarlo, y que no sea una carpeta con datos de alumnos.
+- **Claude Code:** como `CLAUDE.md` en su carpeta de trabajo, por ejemplo "Mis clases".
+  Claude Code lo carga solo cada vez que abre esa carpeta, así que debe abrir siempre
+  Code en ella: en otra carpeta no se carga. Si ya existe un `CLAUDE.md`, añade al final
+  una sección "Perfil docente" sin tocar el resto, y enséñale antes qué vas a escribir.
+  Pide permiso antes de crearlo o actualizarlo, y que no sea una carpeta con datos de
+  alumnos. Si quiere que valga en todas sus carpetas, la solución es la skill personal.
 - **Como skill personal:** la mejor opción cuando el perfil ya está maduro (sección 6).
 
 ## 6. Cuándo pasar a una skill personal

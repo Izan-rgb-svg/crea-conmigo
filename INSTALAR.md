@@ -68,9 +68,14 @@ hacerlo yo".
 
 Al terminar cada tarea, Claude te preguntará **cuánto has tenido que corregir** (nada,
 poco o mucho). Si le corriges lo mismo dos veces, te propondrá guardarlo como una regla.
-Todo eso va a tu **perfil**: unas líneas con tu forma de trabajar. Claude no puede
-guardarlo por ti, así que te dará el texto para que lo pegues en las **Instrucciones** de
-un Proyecto de claude.ai (por ejemplo, "Mi Claude docente") y uses ese proyecto.
+Todo eso va a tu **perfil**: unas líneas con tu forma de trabajar.
+
+- **En la pestaña Code:** Claude lo guarda por ti, con tu permiso, en un archivo llamado
+  `CLAUDE.md` dentro de tu carpeta de trabajo. Crea una carpeta, por ejemplo **Mis clases**,
+  y abre siempre Code en ella: en otra carpeta no se carga.
+- **En claude.ai:** Claude no puede guardarlo, así que te dará el texto para que lo pegues
+  en las **Instrucciones** de un Proyecto (por ejemplo, "Mi Claude docente") y uses ese
+  proyecto.
 
 Cuando tu perfil tenga unas 8 reglas, te ofrecerá convertirlo en **tu propia skill**.
 Será tuya: la puedes leer, cambiar, duplicar para otra asignatura o pasársela a un

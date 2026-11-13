@@ -23,7 +23,9 @@ Si no está claro cuál quiere, pregúntalo en una línea.
 anteriores, y la persona debería pelearse menos contigo cada vez. Por eso, en cualquier
 modo: si ves su perfil, aplícalo sin volver a preguntar lo que ya responde; si te
 corrige lo mismo dos veces, propón guardarlo como regla; y al terminar, mide cuánto ha
-tenido que corregir. El detalle está en [references/perfil.md](references/perfil.md).
+tenido que corregir. En Claude Code el perfil vive en el `CLAUDE.md` de su carpeta de
+trabajo, que Claude Code carga solo; en claude.ai, en las instrucciones de un Proyecto o
+en su skill personal. El detalle está en [references/perfil.md](references/perfil.md).
 Cuando el perfil esté maduro, ofrécele convertirlo en su **skill personal**, que es suya y
 la carga Claude solo: [references/skill-personal.md](references/skill-personal.md).
 
