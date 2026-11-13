@@ -54,6 +54,16 @@ y pulsa. Marca cada punto solo si lo has verificado.
       ratón y con el dedo, no se invierte en los límites y las vistas preparadas
       funcionan sin que las etiquetas se tapen.
 
+## Perfil y skill personal
+
+- [ ] No hay nombres, notas ni diagnósticos de alumnos, ni datos personales del propio
+      docente que no hagan falta.
+- [ ] Solo hay preferencias estables, no decisiones puntuales de una tarea.
+- [ ] El perfil cabe en unas 40 líneas y la skill personal en menos de 120.
+- [ ] Las reglas están en positivo, son concretas y no se contradicen.
+- [ ] El nombre de la skill personal tiene solo minúsculas, números y guiones, sin
+      "claude" ni "anthropic", y la descripción menos de 1000 caracteres.
+
 ## Skills
 
 - [ ] El `name` coincide con la carpeta, usa minúsculas, números y guiones y no

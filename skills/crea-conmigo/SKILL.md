@@ -1,6 +1,6 @@
 ---
 name: crea-conmigo
-description: "Método guiado para docentes y personas sin conocimientos técnicos que crean algo con Claude o quieren aprender a usar Claude y Claude Code. Consúltala ANTES que cualquier herramienta de documentos, presentaciones o artefactos cuando un docente pida crear material, aunque el encargo sea concreto y pida hacerlo directamente: exámenes, fichas, rúbricas, presentaciones, programaciones, adaptaciones, webs, juegos, simulaciones interactivas (también en 3D) o skills propias. Aporta alumnado y solucionario por separado, revisión de claves y datos, protección de datos de alumnos y cómo pedirlo mejor. Úsala también si alguien no sabe por dónde empezar o quiere aprender: 'enséñame a usar Claude', 'quiero dominar Claude Code', 'enséñame a hacerlo yo'. Ejemplos: 'hazme una ficha de repaso para 2.º de ESO', 'quiero un examen', 'hazme un juego para mis alumnos', 'una simulación del plano inclinado en 3D'. No la uses para preguntas rápidas de información ni para retocar algo ya terminado."
+description: "Método guiado para docentes y personas sin conocimientos técnicos que crean algo con Claude o quieren aprender a usar Claude y Claude Code. Consúltala ANTES que cualquier herramienta de documentos, presentaciones o artefactos cuando un docente pida crear material, aunque el encargo sea concreto y pida hacerlo directamente: exámenes, fichas, rúbricas, presentaciones, programaciones, adaptaciones, webs, juegos, simulaciones interactivas (también en 3D) o skills propias. Aporta alumnado y solucionario por separado, revisión de claves, protección de datos y mejores peticiones. Aprende de sus correcciones. Úsala también si alguien no sabe por dónde empezar, quiere aprender o personalizarla: 'enséñame a usar Claude', 'quiero dominar Claude Code', 'guarda mis preferencias', 'hazme mi skill personal'. Ejemplos: 'hazme una ficha de repaso para 2.º de ESO', 'hazme un juego para mis alumnos', 'una simulación del plano inclinado en 3D'. No la uses para preguntas rápidas ni para retocar algo ya terminado."
 ---
 
 # Crea conmigo
@@ -18,6 +18,14 @@ Hay dos modos, y la persona puede pasar de uno a otro cuando quiera:
   tutor: ahí lo hace ella y tú corriges.
 
 Si no está claro cuál quiere, pregúntalo en una línea.
+
+**Lo que aprendes de ella se guarda en su perfil.** No recuerdas conversaciones
+anteriores, y la persona debería pelearse menos contigo cada vez. Por eso, en cualquier
+modo: si ves su perfil, aplícalo sin volver a preguntar lo que ya responde; si te
+corrige lo mismo dos veces, propón guardarlo como regla; y al terminar, mide cuánto ha
+tenido que corregir. El detalle está en [references/perfil.md](references/perfil.md).
+Cuando el perfil esté maduro, ofrécele convertirlo en su **skill personal**, que es suya y
+la carga Claude solo: [references/skill-personal.md](references/skill-personal.md).
 
 ## Cómo hablar
 
@@ -66,6 +74,7 @@ Carga la guía que corresponda antes de empezar:
 | Simulaciones para enseñar un concepto de forma gráfica, también en 3D | [references/simulaciones.md](references/simulaciones.md) y [references/webs-y-apps.md](references/webs-y-apps.md) |
 | Webs, juegos, herramientas interactivas | [references/webs-y-apps.md](references/webs-y-apps.md) |
 | Crear una skill o agente propio | [references/crear-skills.md](references/crear-skills.md) |
+| Guardar sus preferencias, o crear su skill personal | [references/perfil.md](references/perfil.md) y [references/skill-personal.md](references/skill-personal.md) |
 | Cualquier otra cosa | Aplica este método sin guía adicional |
 
 Cuenta en una frase lo que vas haciendo en cada tramo largo, para que la persona
@@ -108,6 +117,10 @@ por lo básico (dar contexto, poner ejemplos, pedir cambios concretos) y ve
 subiendo según lo que la persona ya demuestre saber. Si te ha pasado su ficha de
 progreso, elige la idea de su nivel actual en el itinerario de
 [references/aprender.md](references/aprender.md).
+
+Tras la entrega, aplica el cierre de [references/perfil.md](references/perfil.md)
+(sección 4): la pregunta de cuánto ha tenido que corregir y las reglas nuevas, como
+máximo en dos líneas y una sola vez por conversación.
 
 ## Dónde estás
 
@@ -189,5 +202,5 @@ otra cosa sin haberlo acordado.
 - Acceder o subir nada a su plataforma educativa o a su correo, si no está conectada.
   Puedes prepararlo para que lo suba la persona, y explicarle cómo.
 - Recordar conversaciones anteriores: si hace falta continuidad, deja un resumen
-  que pueda pegar la próxima vez. Para el aprendizaje, usa la ficha de progreso de
-  [references/aprender.md](references/aprender.md).
+  que pueda pegar la próxima vez. Para eso existe el perfil de
+  [references/perfil.md](references/perfil.md), que guarda la persona.

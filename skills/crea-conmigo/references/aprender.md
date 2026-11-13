@@ -73,9 +73,13 @@ skill.
 - Cuándo usar cada cosa: el proyecto, para el contexto de una asignatura; la skill, para
   una forma de trabajar que repite en cualquier asignatura.
 
+- **Su perfil y su skill personal:** el perfil guarda cómo trabaja, y cuando madura se
+  convierte en una skill suya que Claude carga sola. Es el paso que hace que pelee cada
+  vez menos con Claude. Sigue [perfil.md](perfil.md) y [skill-personal.md](skill-personal.md).
+
 **Señal de dominio:** Claude ya conoce su contexto sin que lo repita, y tiene al menos
 una skill propia que usa.
-**Reto:** crear el proyecto de su asignatura y una skill con su formato de examen.
+**Reto:** crear el proyecto de su asignatura y su skill personal con su formato de examen.
 
 ### Nivel 4. Crear cosas interactivas
 
@@ -133,7 +137,8 @@ automatización que le ahorra tiempo de verdad.
 - Uso responsable: transparencia con el alumnado, la evaluación siempre humana,
   protección de datos y normas del centro.
 - Mantener sus herramientas: probarlas, mejorarlas por versiones y retirarlas cuando
-  sobren.
+  sobren, empezando por su skill personal, que actualiza cada pocas semanas.
+- Redactar un informe de qué le cuesta a Claude para mejorar la skill base.
 
 **Señal de dominio:** otros docentes usan algo que él ha creado, y él sabe mejorarlo
 cuando falla.
@@ -161,40 +166,16 @@ cada ventana de permiso antes de aceptarla: pídele que te diga qué cree que ha
 
 Una sola idea nueva por sesión. Si es de más de 20 o 30 minutos, se olvida.
 
-## 4. La ficha de progreso
+## 4. El progreso vive en el perfil
 
-No recuerdas las conversaciones anteriores, así que el progreso vive en una ficha que
-guarda la persona.
+No recuerdas las conversaciones anteriores, así que el progreso se guarda en el **perfil
+del docente**, en su sección "Progreso con Claude". Cómo es, dónde se guarda y cómo se
+actualiza está en [perfil.md](perfil.md); sigue esa guía para leerlo al empezar y para
+dar el texto actualizado al terminar.
 
-**Al empezar una sesión de aprendizaje:** pide la ficha si no la ves. En Claude Code,
-mira solo si existe `mi-progreso-claude.md` en la carpeta de trabajo actual, sin
-explorar más. Si no hay ficha, haz el diagnóstico.
+Al empezar una sesión de aprendizaje, busca el perfil como indica esa guía. Si no hay,
+haz el diagnóstico de la sección 1. Si solo tiene una ficha antigua con el nivel, úsala
+como el progreso y, al terminar, dale el perfil completo.
 
-**Al terminar:** genera la ficha actualizada con este formato:
-
-```markdown
-# Mi progreso con Claude
-Actualizado: [fecha]
-
-**Nivel actual:** [número] – [nombre]
-
-**Ya domino:**
-- [cosas concretas que ha demostrado]
-
-**Estoy practicando:**
-- [lo que está en marcha]
-
-**Próximo reto:** [uno, concreto, con su asignatura]
-
-**Notas:** [preferencias o dudas que conviene recordar]
-```
-
-Dónde guardarla, según el entorno:
-
-- **claude.ai:** recomiéndale crear un Proyecto llamado "Aprender Claude" y añadir la
-  ficha a sus archivos. Así las siguientes conversaciones dentro de ese proyecto la
-  verán. Si no, que la copie y la pegue al empezar.
-- **Claude Code:** propón guardarla como `mi-progreso-claude.md` en su carpeta de
-  trabajo y pide permiso antes de crearla o actualizarla.
-
-La ficha nunca lleva datos del alumnado ni nada personal que no haga falta.
+Al terminar, entrega el perfil o las líneas nuevas listos para pegar, con el nivel, lo que
+ha demostrado, lo que practica y el próximo reto.

@@ -64,6 +64,25 @@ la próxima vez, Claude sabrá por dónde ibas.
 Si prefieres hacer tú las cosas mientras Claude te corrige, pídele: "enséñame a
 hacerlo yo".
 
+### Para que Claude aprenda cómo trabajas
+
+Al terminar cada tarea, Claude te preguntará **cuánto has tenido que corregir** (nada,
+poco o mucho). Si le corriges lo mismo dos veces, te propondrá guardarlo como una regla.
+Todo eso va a tu **perfil**: unas líneas con tu forma de trabajar. Claude no puede
+guardarlo por ti, así que te dará el texto para que lo pegues en las **Instrucciones** de
+un Proyecto de claude.ai (por ejemplo, "Mi Claude docente") y uses ese proyecto.
+
+Cuando tu perfil tenga unas 8 reglas, te ofrecerá convertirlo en **tu propia skill**.
+Será tuya: la puedes leer, cambiar, duplicar para otra asignatura o pasársela a un
+compañero. Se crea en *Personalización > Skills > Añadir > Crear una Skill*, pegando
+tres textos que Claude te dará: nombre, descripción e instrucciones. No hace falta
+ningún archivo.
+
+Si quieres pedírselo ya, escribe: "Usa crea-conmigo. Quiero crear mi skill personal."
+
+Si algo te cuesta mucho, pídele "un informe de qué te ha costado" y envíaselo a Izan: así
+mejora la skill para todos.
+
 **Empieza siempre con "Usa crea-conmigo".** Sin esa frase, Claude suele usarla igualmente,
 pero puede ir directo a crear el documento y saltarse la revisión. Sabrás que se ha usado
 porque termina con **"He comprobado"** y **"Para la próxima"**.
