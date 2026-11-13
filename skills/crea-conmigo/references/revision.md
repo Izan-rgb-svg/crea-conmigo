@@ -47,6 +47,12 @@ y pulsa. Marca cada punto solo si lo has verificado.
 - [ ] Las ecuaciones en pantalla usan los números del caso actual.
 - [ ] Indica en pantalla qué simplifica el modelo.
 - [ ] Se lee bien en la pantalla prevista, también en un proyector si aplica.
+- [ ] Los vectores son protagonistas: el mayor ocupa cerca de la mitad de la escena,
+      ninguno queda más corto que el objeto y las etiquetas no se tapan en ninguna vista.
+- [ ] Si tiene vista 3D: las componentes suman el vector, los ángulos en número son los
+      reales y coinciden con el dibujo en la vista perpendicular a su plano, se gira con
+      ratón y con el dedo, no se invierte en los límites y las vistas preparadas
+      funcionan sin que las etiquetas se tapen.
 
 ## Skills
 

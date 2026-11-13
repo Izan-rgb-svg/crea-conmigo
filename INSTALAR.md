@@ -49,6 +49,21 @@ Abre una conversación nueva y escribe lo que quieres, con tus palabras:
 
 > Usa crea-conmigo. Tengo una idea para un juego de clase pero no sé por dónde empezar
 
+### Para aprender a usar Claude
+
+La skill también te enseña, paso a paso y con tus propios encargos, desde lo básico
+hasta Claude Code avanzado. Escribe:
+
+> Usa crea-conmigo. Quiero aprender a usar Claude. ¿Por dónde empiezo?
+
+Te hará unas preguntas para ver tu nivel y te propondrá un primer reto. Al terminar
+cada sesión te dará una **ficha de progreso**: guárdala. Lo más cómodo es crear un
+Proyecto llamado "Aprender Claude" en claude.ai y añadir la ficha a sus archivos. Así,
+la próxima vez, Claude sabrá por dónde ibas.
+
+Si prefieres hacer tú las cosas mientras Claude te corrige, pídele: "enséñame a
+hacerlo yo".
+
 **Empieza siempre con "Usa crea-conmigo".** Sin esa frase, Claude suele usarla igualmente,
 pero puede ir directo a crear el documento y saltarse la revisión. Sabrás que se ha usado
 porque termina con **"He comprobado"** y **"Para la próxima"**.
